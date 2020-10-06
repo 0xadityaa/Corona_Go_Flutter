@@ -1,10 +1,10 @@
 # Corona Go
-This is a Corona Virus data tracking application made using Flutter which gives realtime stats of all the countries.
+This is a Corona Virus data tracking application made using Flutter which gives realtime stats of COVID-19 from all the countries.
 
 # This app includes:
-API calls<br/>
-Dynamic Theme<br/>
-Clean UI<br/>
+<img src="https://img.shields.io/badge/Feature-API%20Calls-brightgreen"/><br/>
+<img src="https://img.shields.io/badge/Feature-Dynamic%20Theme-blue"/><br/>
+<img src="https://img.shields.io/badge/Feature-Clean%20UI-red"/><br/>
 
 # API used:
 https://corona.lmao.ninja/v3/covid-19/countries
